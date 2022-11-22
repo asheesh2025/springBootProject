@@ -34,3 +34,5 @@ This is individual project, I created a rest API service for student details. Th
 ## Swagger UI
 [SwaggerUI](https://drive.google.com/file/d/1EoVNVQS1sh8LEq06Y3hts9Wlgg1Lt-km/view?usp=sharing)
 
+## Swagger UI
+[![SwaggerUI](https://github.com/Anantk05/temporary-partner-4254/blob/main/images/Swagger.png?raw=true)](https://github.com/Anantk05/temporary-partner-4254/blob/main/images/Swagger.png?raw=true)
