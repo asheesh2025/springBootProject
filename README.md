@@ -1,4 +1,4 @@
-# springBootProject
+# SpringBootProject
 
 This is individual project, I created a rest API service for student details. This service provides users to insert student details in database, get student details delete student details and update student details from database.
 
