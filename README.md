@@ -31,8 +31,5 @@ This is individual project, I created a rest API service for student details. Th
 
 # Backend
 
-## Swagger UI
-[SwaggerUI](https://drive.google.com/file/d/1EoVNVQS1sh8LEq06Y3hts9Wlgg1Lt-km/view?usp=sharing)
-
-## Swagger UI
-[![SwaggerUI](https://github.com/Anantk05/temporary-partner-4254/blob/main/images/Swagger.png?raw=true)](https://github.com/Anantk05/temporary-partner-4254/blob/main/images/Swagger.png?raw=true)
+### Thank You
+[![SwaggerUI](https://64.media.tumblr.com/d0635fa4e4bf417b33f24bd481c21f88/tumblr_ppcabrYCWy1ue08b9o1_540.gif)](https://64.media.tumblr.com/d0635fa4e4bf417b33f24bd481c21f88/tumblr_ppcabrYCWy1ue08b9o1_540.gif)
