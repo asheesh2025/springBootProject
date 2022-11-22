@@ -30,7 +30,6 @@ This is individual project, I created a rest API service for student details. Th
 -   Hibernate
 -   MySQL
 
-# Backend
 
 ### Thank You
 [![SwaggerUI](https://64.media.tumblr.com/d0635fa4e4bf417b33f24bd481c21f88/tumblr_ppcabrYCWy1ue08b9o1_540.gif)](https://64.media.tumblr.com/d0635fa4e4bf417b33f24bd481c21f88/tumblr_ppcabrYCWy1ue08b9o1_540.gif)
