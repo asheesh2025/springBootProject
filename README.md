@@ -7,7 +7,7 @@ This is individual project, I created a rest API service for student details. Th
 ## Backend Work
 -  Proper Exception Handling
 -  Proper Input Validation
--  Data Stored in the database(mySQL)
+-  Data Stored in the database(MySQL)
 -  Swagger UI
 
 
