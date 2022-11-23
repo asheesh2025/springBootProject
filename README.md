@@ -31,5 +31,11 @@ This is individual project, I created a rest API service for student details. Th
 -   MySQL
 
 
+
+## Some snaps of our project
+
+![Screenshot 2022-11-22 163720](https://user-images.githubusercontent.com/101580788/203573724-5f2668c4-24cf-496b-940a-45d4939b8eb2.jpg)
+
+
 ### Thank You
 [![SwaggerUI](https://64.media.tumblr.com/d0635fa4e4bf417b33f24bd481c21f88/tumblr_ppcabrYCWy1ue08b9o1_540.gif)](https://64.media.tumblr.com/d0635fa4e4bf417b33f24bd481c21f88/tumblr_ppcabrYCWy1ue08b9o1_540.gif)
