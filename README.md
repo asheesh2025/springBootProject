@@ -4,7 +4,7 @@ This is individual project, I created a rest API service for student details dur
 
 
 
-## Backend Work
+## Backend Works
 -  Proper Exception Handling
 -  Proper Input Validation
 -  Data Stored in the database(MySQL)
