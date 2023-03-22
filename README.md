@@ -24,7 +24,7 @@ This is individual project, I created a rest API service for student details dur
 
 # Tech Stacks
 
--   Java Core
+-   Core Java
 -   Spring Data JPA
 -   Spring Boot
 -   Hibernate
